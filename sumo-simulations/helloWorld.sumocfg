@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on sáb 13 jun 2020 14:35:28 -04 by Eclipse SUMO GUI Version 1.6.0
+-->
+
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="/home/greg/Projects/ipre2020-1/helloWorld.net.xml"/>
+        <route-files value="/home/greg/Projects/ipre2020-1/helloWorld.rou.xml"/>
+    </input>
+
+</configuration>
